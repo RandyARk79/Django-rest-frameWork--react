@@ -1,0 +1,8 @@
+Django
+django-crispy-forms
+django-markdown-deux
+django-pagedown
+djangorestframework
+django-filter
+markdown2
+Pillow
